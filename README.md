@@ -1,2 +1,2 @@
-# HEART-DISEASE-PREDICTION
-It predicts your heart condition based on the inputs you have given.
+# Heart-Disease-Prediction
+In this we make a project by which we know about heart healt
